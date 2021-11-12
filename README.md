@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @cyanidev my name is Andrea 
 - 👀 I love learning new stuf
 - 🌱 I'm currently learning C in 42 Madrid
-- 💞️ I'm an artist!!
+- 💞️ I'm an artist!! @cyanidie on ig
 - 📫 How to reach me = afelicia@student.42madrid.com
 
 <!---
