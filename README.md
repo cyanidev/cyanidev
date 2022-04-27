@@ -2,7 +2,7 @@
 - 👀 I love learning new stuf
 - 🌱 I'm currently learning C in 42 Madrid
 - 💞️ I'm an artist!! @cyanidie on ig
-- 📫 How to reach me = afelicia@student.42madrid.com
+
 
 <!---
 cyanidev/cyanidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
