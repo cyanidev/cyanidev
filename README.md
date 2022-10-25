@@ -1,4 +1,3 @@
-
 ### Welcome to my GitHub page!
 <br>
 I learnt by myself thanks to all the free content on internet and this is my way of paying back: This site will host all the non private code I will make over the years, so everyone interested can see my code and (hopefully) lean as well.
@@ -16,7 +15,7 @@ I learnt by myself thanks to all the free content on internet and this is my way
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanidev&hide=HTML,G-code,scss,css,objective-c,roff,tex,makefile&theme=radical&langs_count=8" alt="Top Langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanidev&hide=HTML,G-code,scss,css,objective-c,roff,tex,makefile&theme=dracula&langs_count=8" alt="Top Langs"/>
 </a>
 
 <br>
@@ -24,7 +23,7 @@ I learnt by myself thanks to all the free content on internet and this is my way
 <br>
   
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=cyanidev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cyanidev&theme=dracula&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
   
 <br>
   
@@ -33,10 +32,11 @@ I learnt by myself thanks to all the free content on internet and this is my way
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyanidev&theme=radical&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jkutkut&theme=radical&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
 </a>
 
 </div>
+
 
 <!---
 cyanidev/cyanidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
