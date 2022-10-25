@@ -32,7 +32,7 @@ I learnt by myself thanks to all the free content on internet and this is my way
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jkutkut&theme=radical&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyanidev&theme=dracula&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
 </a>
 
 </div>
