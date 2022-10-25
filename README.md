@@ -7,11 +7,7 @@ Hello! my name is Andrea I'm a self-taught programer.
 <div style="text-align:center">
   
 <br>
-  
-<br>
-  
-<br>
-<center>
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanidev&hide=HTML,G-code,scss,css,objective-c,roff,tex,makefile&theme=dracula&langs_count=8" alt="Top Langs"/>
 </a>
@@ -32,7 +28,7 @@ Hello! my name is Andrea I'm a self-taught programer.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyanidev&theme=dracula&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
 </a>
-  </center>
+
 </div>
 
 
