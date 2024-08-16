@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page!
 <br>
-Hello! my name is Andrea I'm a self-taught programer.
+Hello! I'm Andrea a self-taught programer.
 
 ## My Stats
 
